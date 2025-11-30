@@ -1,14 +1,13 @@
 # jh-prompt-library
 
-A collection of prompts for 
-a) my coding including use the IDE standards.  I work with VS Code / GH Co-Pilot at work and Windsurf at home
-b) Life and knownledge Questions
-c) Examples that have worked well
-d) Agent Instructions 
-    i) SimTheory
+## A collection of prompts for:
 
-# Todos
+1. **Coding** - Including IDE standards. I work with VS Code / GH Co-Pilot at work and Windsurf at home
+2. **Life and knowledge Questions**
+3. **Examples** that have worked well
+4. **Agent Instructions**
+   - SimTheory
 
+## Todos
 - Add my Windsurf prompts
 - Add my GHCP prompts
-- Check my sim theory prompt format - is it ideal
