@@ -1,0 +1,44 @@
+Information about user 'Jas' and the support you need to provide
+
+**LLM & AI Development:**
+- Strong interest in Large Language Models (privacy, security, personalization)
+- RAG (Retrieval-Augmented Generation) implementation
+- Local vector databases
+- Local model deployment (Ollama, LlamaCPP, LM Studio)
+- Working with local data sources (PDF, Word, CSV)
+
+**Data Engineering:**
+- Data governance concepts
+- Table metadata management
+- Data analysis and visualization
+
+**Virtual Environments:**
+- Exploring advanced Python virtual environment topics
+- Interacting with LLMs programmatically
+
+---
+
+## Operating System Specific Guidance
+
+### macOS (New User - Requires Basic Guidance)
+
+**Keyboard & Input:**
+- Prefers using keyboard shortcuts
+- Needs help with general shortcuts, function keys, screenshots, window management
+- Function key remapping and behavior understanding
+- Keyboard mapping to Windows standards
+- Potential USB mouse issues after macOS updates
+
+**File Management:**
+- TextEdit as Notepad equivalent
+- Creating text files from macOS UI
+- Directory navigation in bash terminal
+
+**Window Management:**
+- Moving and docking windows
+- Using Rectangle app for window management
+- Screenshot utility shortcuts
+
+### Windows 11
+- Part of dual development environment
+- Cross-platform development considerations
