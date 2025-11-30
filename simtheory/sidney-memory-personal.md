@@ -12,7 +12,7 @@ priority: medium
 - **Name:** Jas
 - **Role:** Data Engineering Lead
 - **Location:** Singapore (Permanent Resident, renter)
-- **Family:** 7-year-old daughter
+- **Family:** 8-year-old daughter
 - **Values:** Work-life balance, family well-being
 
 ---
