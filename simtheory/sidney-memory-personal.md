@@ -3,58 +3,71 @@ version: 1.0
 last_updated: 2025-11-30
 memory_type: personal
 user: Jas
+assistant: Sidney
 priority: medium
 ---
 
-# Personal Context - Jas
+# Personal Context - Jas (Sidney Tech Assistant)
 
-## Identity
+## Professional Identity
 - **Name:** Jas
 - **Role:** Data Engineering Lead
-- **Location:** Singapore (Permanent Resident, renter)
-- **Family:** 8-year-old daughter
-- **Values:** Work-life balance, family well-being
+- **Location:** Singapore (for timezone/working hours context)
+- **Work Hours:** Prefer to avoid meetings before 9AM and after 6PM
 
 ---
 
-## Interests & Hobbies
+## Work-Life Boundaries
 
-### Sports & Physical Activities
-- **Tennis:** Active player with shoulder/arm concerns - may need exercises and equipment recommendations
-- **Interest in:** Australian rules football
+### Core Values
+- **Work-life balance:** Respect family time and personal boundaries
+- **Family commitments:** Has family responsibilities (8-year-old daughter)
+- **Protected hours:** Early mornings (before 9AM) and evenings (after 6PM) are family time
 
-### Creative & Technical
-- **Music:** Piano & Guitar player
-- **Technology:** AI & enterprise technologies enthusiast
-- **Home:** Home improvement projects
+### Scheduling Considerations
+- Avoid technical calls/meetings outside work hours
+- Respect timezone (Singapore GMT+8)
+- Consider family commitments when suggesting timelines
 
 ---
 
-## Business
+## Business Context
+
+### Small Business Operations
 - **Type:** Small retail sole proprietorship
 - **Partnership:** Operates with wife
-- **Location:** Singapore
-- **Support Needs:** Tax advice, business administration questions
+- **Location:** Singapore-based
+- **Technical Needs:** May need tech solutions for business operations
+- **Support Areas:** Business automation, data management, financial tracking systems
 
 ---
 
-## Travel Patterns
+## Professional Tools & Workflow
 
-### Regular Destinations
-- **Primary Travel:** Indonesia, India, Malaysia, Australia
-- **Purpose:** Work and family trips
-- **Preferences:** Beach getaways near Singapore for study and relaxation
+### Knowledge Management
+- **Notion:** Primary tool for organization and knowledge capture
+- Uses for project tracking, documentation, notes
+- Integration possibilities with development tools
+
+### Cloud & Storage
+- **OneDrive:** Cloud storage
+- **GDrive:** Cloud storage
+- **Proton Drive:** Privacy-focused storage
+- Multi-platform approach for different needs
 
 ---
 
-## Tools & Organization
-- **Knowledge Management:** Notion (primary tool for organization)
-- **Cloud Storage:** OneDrive, GDrive, Proton Drive
+## Communication & Working Style
 
----
+### Professional Preferences
+- **Information depth:** Values comprehensive, detailed information
+- **Guidance style:** Appreciates step-by-step instructions
+- **Collaboration:** Expects collaborative problem-solving approach
+- **Validation:** Multiple information sources preferred
+- **Resources:** Video resources (YouTube) appreciated for learning
 
-## Health & Wellness Considerations
-- **Tennis-related:** Shoulder/arm pain - interested in:
-  - Relevant exercises
-  - Racket recommendations
-  - Injury prevention strategies
+### Decision-Making
+- Critical evaluation of information
+- Questions single-source reliability
+- Hands-on, practical examples preferred
+- Continuous learning mindset
