@@ -30,6 +30,7 @@ auto_apply: email,calendar,coding
 - **New Messages:** Only check 'Inbox' label
 - **Moving Messages:** Remove 'inbox' label when moving to folders
 - **Forwarding:** Always archive the email after forwarding to user
+- **Verification:** After deleting or archiving any email, always check the inbox again to verify it's gone. If still present, try the operation again
 - **Calendar:** Always use Gmail calendar for all event saving
 
 ---
@@ -44,6 +45,7 @@ auto_apply: email,calendar,coding
 
 ### Operations
 - **Forwarding:** Always archive the email after forwarding to user
+- **Verification:** After deleting or archiving any email, always check the inbox again to verify it's gone. If still present, try the operation again
 
 ---
 
