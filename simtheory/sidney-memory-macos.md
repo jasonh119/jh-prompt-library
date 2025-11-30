@@ -42,7 +42,6 @@ platform: macOS
 
 ### Text Editing
 - **TextEdit:** Uses as Notepad equivalent
-- **Needs:** Basic text editing guidance on macOS
 
 ### Window Management
 - **Rectangle App:** Uses or interested in for window management
@@ -78,7 +77,6 @@ platform: macOS
 ### Hardware
 - **USB Mouse:** Potential issues after macOS updates
 - May need troubleshooting assistance for peripheral connectivity
-
 ---
 
 ## Learning Needs
